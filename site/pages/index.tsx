@@ -61,11 +61,8 @@ export default function Home({
       </Marquee>
       <Hero
         headline="Swarna Company"
-        description="Looking for a stunning jewelry that will take your style to the next level? Look no further than our online jewelry store, where we offer a wide range of beautiful, high-quality pearl necklaces that are sure to impress.
-        
-        At our swarna company, we only use the highest quality materials and craftsmanship to create our pearl necklaces, ensuring that each piece is both beautiful, unique and long-lasting. From simple, minimalist styles to more ornate, statement pieces, we have options to suit any taste and occasion.
-        
-        In addition to our wide selection of pearl necklaces, we also offer fast and reliable shipping, excellent customer service, and a hassle-free return policy. Shop with confidence and discover the perfect pearl necklace to elevate your look and enhance your style.. "
+        description="Looking for stunning jewelry that will take your style to the next level? Look no further than our online jewelry store, where we offer a wide range of beautiful, high-quality jewelry that are sure to impress.
+        "
       />
       <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
