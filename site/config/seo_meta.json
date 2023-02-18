@@ -1,9 +1,9 @@
 {
-  "title": "Swarna Company Storefront",
-  "titleTemplate": "%s - Swarna Company Storefront",
+  "title": "Swarna Company",
+  "titleTemplate": "%s - Swarna Company",
   "description": "Next.js Commerce - https://www.nextjs.org/commerce",
   "openGraph": {
-    "title": "Swarna Company Storefront",
+    "title": "Swarna Company",
     "description": "Next.js Commerce - https://www.nextjs.org/commerce",
     "type": "website",
     "url": "https://nextjs.org/commerce",
