@@ -1,10 +1,10 @@
 {
   "title": "Swarna Company",
   "titleTemplate": "%s - Swarna Company",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "description": "Swarna Company",
   "openGraph": {
     "title": "Swarna Company",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "description": "Swarna Company",
     "type": "website",
     "url": "https://nextjs.org/commerce",
     "site_name": "Swarna company shof",
@@ -13,7 +13,7 @@
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "Swarna Company"
       }
     ]
   },
