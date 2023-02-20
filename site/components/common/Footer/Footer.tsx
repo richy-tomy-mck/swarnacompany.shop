@@ -60,13 +60,6 @@ const Footer: FC<Props> = ({ className, pages }) => {
             <div className="flex space-x-4 items-center h-10">
               <ThemeSwitcher />
               <I18nWidget />
-              <a
-                className={s.link}
-                aria-label="Github Repository"
-                href="https://github.com/vercel/commerce"
-              >
-                <Github />
-              </a>
             </div>
           </div>
         </div>
